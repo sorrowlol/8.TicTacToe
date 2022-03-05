@@ -1,4 +1,3 @@
-# 8.TicTacToe
-# 8.TicTacToe
+Updated tic-tac-toe game on command line.
 
-Finished.
+From OdinProject to test beginner ruby knowledge!
